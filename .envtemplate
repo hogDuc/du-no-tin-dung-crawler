@@ -1,0 +1,8 @@
+DU_NO_URL = 'https://sbv.gov.vn/vi/du-no-tin-dung-doi-voi-nen-kt-dttktt'
+
+IMG_FOLDER = 'img'
+IMG_NAME = 'data_img.png'
+
+PDF_NAME = 'table'
+
+DATA_PATH = # path to credit.xlsx
