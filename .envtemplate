@@ -6,3 +6,11 @@ IMG_NAME = 'data_img.png'
 PDF_NAME = 'table'
 
 DATA_PATH = # path to credit.xlsx
+
+FPTS_PROXY = '10.26.2.55'
+
+NOTI_EMAIL = 'fda.n8n.notifications@gmail.com'
+
+LOG_FOLDER = 'log'
+
+CUSTOM_PACKAGE_PATH = "C:/Users/ducngh/OneDrive - fpts.com.vn/work/Macro data/custom_packages"
